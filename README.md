@@ -24,29 +24,21 @@ He has hands-on experience across SAP Business One Web Client and SAP BRIM (Hybr
 • <b>Testing:</b>                      End-to-End Testing, Regression Testing, Automation Testing, Agile Development  
 
 ## 💼 <b>Experience Summary</b><br><br>
-<b>Frontend Developer | Capgemini India</b><br><br>
-June 2024 – Present<br><br>
-
+### <b>Frontend Developer | Capgemini India</b> (June 2024 – Present) <br><br>
 SAP Consultant working on SAP Business One Web Client and SAP BRIM projects Built enterprise-grade SAP UI5 / Fiori interfaces with optimized ERP workflows Integrated frontend with Java & C++ backend services for real-time data handling Integrated frontend with Java & C++ backend services for real-time data handling Worked closely with global teams (Germany, China, Poland) and Deloitte India Received in-person SAP training from SAP Germany on SAP Business One architecture Improved system performance, reduced defects, and enhanced UX across billing and payment modules<br><br>
 
-<b>Frontend Developer Intern | LetsGrowMore</b><br><br>
-Oct 2021 – Jan 2022<br><br>
-
+### <b>Frontend Developer Intern | LetsGrowMore</b> (Oct 2021 – Jan 2022) <br><br>
 Built responsive portfolio websites using HTML, CSS, and JavaScript Applied best coding practices, UI optimization, and debugging techniques Gained hands-on experience through real-world frontend projects<br><br>
 
 ## 🚀 <b>Project Summary</b><br><br>
 
-<b>Project - SAP Business One Web Client – Sales & Payment Wizard</b><br><br>
+ ### <b>Project - SAP Business One Web Client – Sales & Payment Wizard</b><br><br>
 Designed complex wizard-based UI workflows aligned with SAP Fiori guidelines Reduced UAT defects by 75% through robust frontend validations Cut manual effort by 75% via streamlined allocation and posting workflows Improved system response time by 65% using optimized data handling Achieved 99.9% uptime with lazy loading and UI caching Enhanced UX using reusable fragments, value helps, and modular UI patterns Reduced task completion time by 50%<br><br>
-
 <b>Technology Used:</b><br>
 SAP UI5, Fiori, JavaScript (ES6+), HTML5, CSS3, OData, Git, GitHub, QUnit, Jira, Java, C++<br><br>
 
-<b>Project - BRIM (Hybrid Billing)</b><br><br>
-Performed end-to-end functional testing for hybrid billing workflows<br><br>
-Validated ERP & CRM data flows using SAP CC, SAP HANA, SAP MM<br><br>
-Managed testing independently with direct client interaction<br><br>
-Collaborated with Deloitte India and SAP Poland teams<br><br>
+### <b>Project - BRIM (Hybrid Billing)</b><br><br>
+Performed end-to-end functional testing for hybrid billing workflows Validated ERP & CRM data flows using SAP CC, SAP HANA, SAP MM Managed testing independently with direct client interaction Collaborated with Deloitte India and SAP Poland teams<br><br>
 
 ## 🎓<b> Education</b><br><br>
 B.E. Electronics & Telecommunicationv
