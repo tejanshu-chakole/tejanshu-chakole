@@ -1,9 +1,9 @@
  # <div align="center">👋 Hello, I'm Tejanshu Chakole!</div>
 ### <div align="center">👨‍💼 <b>SAP Consultant | SAP Frontend Developer</b></div>
 # 💫👨‍💻 About Me:
-Tejanshu Chakole is a Frontend Developer & SAP Consultant with ~2 years of professional experience working on enterprise-scale SAP applications. He specializes in building Fiori-aligned SAP UI5 applications, integrating frontend solutions with Java/C++ backend services, and delivering high-performance ERP and billing workflows for global clients.<br><br>
+I am a Frontend Developer & SAP Consultant with ~2 years of professional experience working on enterprise-scale SAP applications. I specialize in building Fiori-aligned SAP UI5 applications, integrating frontend solutions with Java/C++ backend services, and delivering high-performance ERP and billing workflows for global clients.<br><br>
 
-He has hands-on experience across SAP Business One Web Client and SAP BRIM (Hybrid Billing) projects, collaborating with international teams from Germany, China, Poland, and Deloitte India. Known for strong problem-solving, UI optimization, and cross-functional collaboration, he consistently delivers scalable, user-centric enterprise solutions.<br><br>
+I have hands-on experience across SAP Business One Web Client and SAP BRIM (Hybrid Billing) projects, collaborating with international teams from Germany, China, Poland, and Deloitte India. I am known for strong problem-solving, UI optimization, and cross-functional collaboration, consistently delivering scalable, user-centric enterprise solutions.<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
