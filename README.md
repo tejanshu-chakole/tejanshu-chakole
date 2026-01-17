@@ -41,9 +41,10 @@ SAP UI5, Fiori, JavaScript (ES6+), HTML5, CSS3, OData, Git, GitHub, QUnit, Jira,
 Performed end-to-end functional testing for hybrid billing workflows Validated ERP & CRM data flows using SAP CC, SAP HANA, SAP MM Managed testing independently with direct client interaction Collaborated with Deloitte India and SAP Poland teams<br><br>
 
 ## 🎓<b> Education</b><br><br>
-B.E. Electronics & Telecommunicationv
-Savitribai Phule Pune University         GPA: 8.09 / 10<br>
-B.E. Data Science <b>(Honors)</b> <br>
+<b>B.E. Electronics & Telecommunication</b><br>
+Savitribai Phule Pune University GPA: 8.09 / 10<br>
+
+<b>B.E. Data Science (Honors)</b> <br>
 Savitribai Phule Pune University<br>
 
 
