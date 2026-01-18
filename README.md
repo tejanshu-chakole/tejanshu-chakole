@@ -30,13 +30,14 @@ SAP Consultant working on SAP Business One Web Client and SAP BRIM projects Buil
 Built responsive portfolio websites using HTML, CSS, and JavaScript Applied best coding practices, UI optimization, and debugging techniques Gained hands-on experience through real-world frontend projects<br><br>
 
 ## 🚀 <b>Project Summary</b><br><br>
-
- ### <b>Project - SAP Business One Web Client – Sales & Payment Wizard</b><br><br>
+### SAP Labs India Pvt. Ltd.
+#### <b>Project - SAP Business One Web Client – Sales & Payment Wizard</b><br><br>
 Designed complex wizard-based UI workflows aligned with SAP Fiori guidelines Reduced UAT defects by 75% through robust frontend validations Cut manual effort by 75% via streamlined allocation and posting workflows Improved system response time by 65% using optimized data handling Achieved 99.9% uptime with lazy loading and UI caching Enhanced UX using reusable fragments, value helps, and modular UI patterns Reduced task completion time by 50%<br><br>
 <b>Technology Used:</b><br>
 SAP UI5, Fiori, JavaScript (ES6+), HTML5, CSS3, OData, Git, GitHub, QUnit, Jira, Java, C++<br><br>
 
-### <b>Project - BRIM (Hybrid Billing)</b><br><br>
+### SAP Labs India Pvt. Ltd.
+#### <b>Project - SAP BRIM (Hybrid Billing)</b><br><br>
 Performed end-to-end functional testing for hybrid billing workflows Validated ERP & CRM data flows using SAP CC, SAP HANA, SAP MM Managed testing independently with direct client interaction Collaborated with Deloitte India and SAP Poland teams<br><br>
 
 ## 🎓<b> Education</b><br><br>
